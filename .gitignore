@@ -1,0 +1,42 @@
+.gradle
+.DS_Store
+/build/
+/backend/out
+!gradle/wrapper/gradle-wrapper.jar
+!.idea/
+/frontend/data.json
+
+
+### IntelliJ IDEA ###
+.idea/*
+!.idea/runConfigurations/
+*.iws
+*.iml
+*.ipr
+build/
+/backend/.idea/*
+**.idea/*
+
+# dependencies
+/frontend/node_modules`
+.pid.lock.gradle
+.DS_Store
+**/build/
+**/backend/out
+!gradle/wrapper/gradle-wrapper.jar
+!.idea/
+/frontend/data.json
+
+
+### IntelliJ IDEA ###
+.idea/*
+!.idea/runConfigurations/
+*.iws
+*.iml
+*.ipr
+build/
+/backend/.idea/*
+
+# dependencies
+/frontend/node_modules`
+.pid.lock
